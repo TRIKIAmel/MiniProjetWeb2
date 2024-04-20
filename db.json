@@ -1,4 +1,41 @@
-{
+{"langages_de_programmation": [
+    {
+      "id":1,
+      "nom": "Python",
+      "date_creation": "1991",
+      "description": "Python est un langage de programmation interprété, orienté objet et de haut niveau. Il est réputé pour sa syntaxe claire et concise, ce qui en fait un choix populaire pour le développement web, l'analyse de données, l'IA, etc.",
+      "frameworks": [
+        {
+          "nom": "Django",
+          "date_creation": "2005",
+          "description": "Django est un framework web open-source pour le développement rapide d'applications web en Python. Il offre un ensemble complet d'outils pour la gestion des bases de données, le traitement des formulaires, l'authentification, etc."
+        },
+        {
+          "nom": "Flask",
+          "date_creation": "2010",
+          "description": "Flask est un micro-framework web minimaliste pour Python. Il est simple et flexible, offrant les bases nécessaires pour développer des applications web légères et évolutives."
+        }
+      ]
+    },
+    {
+      "id":2,
+      "nom": "JavaScript",
+      "date_creation": "1995",
+      "description": "JavaScript est un langage de programmation de scripts principalement utilisé dans les pages web interactives. Il est souvent utilisé côté client pour ajouter de l'interactivité et de la dynamique aux pages web.",
+      "frameworks": [
+        {
+          "nom": "React",
+          "date_creation": "2013",
+          "description": "React est une bibliothèque JavaScript open-source développée par Facebook pour la construction d'interfaces utilisateur. Elle est utilisée pour créer des applications web interactives à grande échelle avec une gestion efficace de l'état."
+        },
+        {
+          "nom": "Vue.js",
+          "date_creation": "2014",
+          "description": "Vue.js est un framework JavaScript progressif pour la construction d'interfaces utilisateur. Il est apprécié pour sa simplicité et sa flexibilité, ce qui en fait un choix populaire pour les petites et grandes applications web."
+        }
+      ]
+    }
+  ],
   "burger": [
     {
       "id": 10000,
